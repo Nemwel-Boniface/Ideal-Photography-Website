@@ -73,25 +73,82 @@ nav img{
     font-size: 13px;
     background: transparent;
     position: relative;
-    cursor: ;
+    cursor: pointer;
 }
 .hero-btn:hover{
     border: 1px solid #f44336;
     background:#f44336;
     transition: 1s;
-}
 
 }
-.
+.About {
+    display: flex;
+    align-items: center;
+    text-align: justify;
 
+}
+h2{
+ display: flex;
+ justify-content: center;
+}
+.Fav-work{
+    display: grid;
+    grid-template-columns: 1fr;
+
+}
+.dee{
+    display: flex;
+    justify-content: center;
+
+}
+.Fav-work img{
+    width: 800px;
+    height: auto;
+    padding: 16px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    display: flex;
+    justify-content: center;
+}
+.contact{
+    display: flex;
+    justify-content: center;
 }
 
 
+.footer{
+    display: flex;
+    justify-content: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
-}
-}
 
-}
 
-}
+
+
+
