@@ -3,7 +3,7 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
-.header{
+.Header{
     min-height: 20vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/autumn-poolside.jpg);
