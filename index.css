@@ -11,6 +11,7 @@
     background-position: center;
     position: relative;
     
+    
 
 
 
@@ -24,6 +25,7 @@ nav{
     padding: 2% 6%;
     justify-content: space-between;
     align-items: top;
+    
 }
 nav img{
     width: 150px;
@@ -39,6 +41,7 @@ nav img{
     display: inline-block;
     padding: 8px 12px;
     position: relative;
+    
 }
 .nav-links ul li a{
     color:#fff;
