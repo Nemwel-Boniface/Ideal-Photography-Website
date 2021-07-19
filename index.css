@@ -93,7 +93,7 @@ h2{
 }
 .Fav-work{
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns:  1fr;
 
 }
 .DEE{
