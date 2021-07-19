@@ -96,7 +96,7 @@ h2{
     grid-template-columns: 1fr;
 
 }
-.dee{
+.DEE{
     display: flex;
     justify-content: center;
 
@@ -120,7 +120,7 @@ h4{
 }
 
 
-.footer{
+.Footer{
     display: flex;
     justify-content: center;
 }
