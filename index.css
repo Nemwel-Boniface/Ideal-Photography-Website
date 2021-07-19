@@ -16,7 +16,7 @@
 
 
 } 
-.header img{
+.Header img{
     border-radius: 70%;
     
 }
@@ -28,7 +28,7 @@ nav{
     
 }
 nav img{
-    width: 150px;
+    width: 130px;
     
 
 }
@@ -62,7 +62,7 @@ nav img{
 
 }
 .text-box{
-    width: 90%;
+    width: 60%;
     color: #fff;
     position: absolute;
     top:50%;
